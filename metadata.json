@@ -1,0 +1,5 @@
+{
+  "name": "Cerebro Corporativo",
+  "description": "Una plataforma interactiva de RAG (Retrieval-Augmented Generation) que demuestra cómo conectar documentos empresariales con inteligencia artificial.",
+  "requestFramePermissions": []
+}
